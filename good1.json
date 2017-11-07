@@ -1,0 +1,30 @@
+{
+	"151974": {
+		"name" :"Садовый пылесос Grunhelm VB-28" ,
+		"cost" : 1203 ,
+		"power" : 2800,
+		"weight" : 3.1,
+		"img" : "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/799896e5c6c37e11608b9f8e1d047d15/i/m/img06681.jpg"
+	},
+	"151968": {
+		"name" :"Садовый пылесос MTD BV3000G" ,
+		"cost" : 4884 ,
+		"power" : 800,
+		"weight" : 6,
+		"img" : "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/799896e5c6c37e11608b9f8e1d047d15/3/8/3888_0.png"
+	},
+	"151971": {
+		"name" :"Садовый пылесос Patriot BV2000E" ,
+		"cost" : 1564 ,
+		"power" : 2000,
+		"weight" : 4,
+		"img" : "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/799896e5c6c37e11608b9f8e1d047d15/5/4/5417d5a753634-patriot_bv_2000_e.jpg"
+	},
+		"225580": {
+		"name" :"Садовый пылесос Iron Angel BV 2800E" ,
+		"cost" : 1279 ,
+		"power" : 2800,
+		"weight" : 3.3,
+		"img" : "https://i.allo.ua/media/catalog/product/cache/1/image/425x295/799896e5c6c37e11608b9f8e1d047d15/_/2/_2800.jpg"
+	}
+}
